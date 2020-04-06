@@ -1,3 +1,8 @@
+
+
+Fix packages in Unity 2018.4.19f
+====================================
+
 # Instanced Sprite Renderer for Unity's ECS
 
 This project is a simple example of how Unity's new Entity Component System (ECS) in 2018.1.14f1 can be used to create a performant instanced sprite renderer. Find out about the [new ECS in Unity here](https://github.com/Unity-Technologies/EntityComponentSystemSamples).

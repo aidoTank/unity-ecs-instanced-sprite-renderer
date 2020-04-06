@@ -1,13 +1,18 @@
 {
   "dependencies": {
+    "com.unity.collab-proxy": "1.2.15",
+    "com.unity.collections": "0.0.9-preview.12",
+    "com.unity.doc_zh": "0.1.0-preview.10",
     "com.unity.entities": "0.0.12-preview.19",
-    "com.unity.package-manager-ui": "1.9.11",
-    "com.unity.modules.ui": "1.0.0"
-  },
-  "testables": [
-    "com.unity.collections",
-    "com.unity.entities",
-    "com.unity.jobs"
-  ],
-  "registry": "https://staging-packages.unity.com"
+    "com.unity.messenger": "1.0.7-preview",
+    "com.unity.package-manager-ui": "2.0.8",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0"
+  }
 }
